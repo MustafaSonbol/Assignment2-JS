@@ -1,0 +1,32 @@
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px !important;
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+p{
+    font-size: 35px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+button{
+    background-color: blue !important;
+    width: 250px !important;
+    height: 80px !important;
+    border: black 2px solid !important;
+    margin: auto;
+    text-align: center !important;
+    margin-left: 40%;
+}
+button:hover {
+    background-color: green !important;
+}
